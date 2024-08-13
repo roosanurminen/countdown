@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Countdown app</string>
+    <string name="colon">:</string>
+    <string name="allCountdowns_main">Countdowns</string>
+    <string name="new_countdown">New countdown</string>
+    <string name="selectDate_new">Select date</string>
+    <string name="title_new">Title</string>
+    <string name="addCountdown_new">Add countdown</string>
+
+    <string name="days">Days</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="delete">Delete</string>
+</resources>
